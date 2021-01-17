@@ -11,7 +11,7 @@
 打印对象头工具
 
 ```xml
-		<dependency>
+        <dependency>
             <groupId>org.openjdk.jol</groupId>
             <artifactId>jol-core</artifactId>
             <version>0.9</version>
@@ -19,7 +19,7 @@
 ```
 
 ```java
-	private static int[] arr = {1, 2, 3};
+    private static int[] arr = {1, 2, 3};
 
     public static void main(String[] args) {
         System.out.println(ClassLayout.parseInstance(arr).toPrintable());
