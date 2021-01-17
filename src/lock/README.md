@@ -28,4 +28,4 @@
 | 重量级锁 | 指向监视器（monitor）的指针   | 10                             |        |          |       |        |
 | GC标记   | 0                             | 11                             |        |          |       |        |
 
-![](../../images/lock/sychronized_lock_inflate.png)
+![](https://github.com/darrenkeng/myblog/blob/master/images/lock/sychronized_lock_inflate.png)
