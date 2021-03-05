@@ -1,5 +1,17 @@
 # Blog
 
+## 原创
+
+[synchronized锁升级](https://github.com/darrenkeng/myblog/tree/master/src/lock)
+
+
+
+## 数据结构
+
+[红黑树，超强动静图详解，简单易懂](https://zhuanlan.zhihu.com/p/79980618?utm_source=cn.wiz.note)
+
+[红黑树](https://my.oschina.net/hosee/blog/618828)
+
 
 
 ## Java基础
@@ -34,7 +46,7 @@
 
 [tpvlog](https://www.tpvlog.com/)
 
-
+[全链路追踪必备组件之 TransmittableThreadLocal 详解](https://blog.csdn.net/y4x5M0nivSrJaY3X92c/article/details/106416414)
 
 
 
@@ -72,6 +84,20 @@
 
 
 
+## ElasticSearch
+
+[Elasticsearch 实现快速索引的原理](https://www.cnblogs.com/xi-jie/articles/10531532.html)
+
+
+
+## SpringCloud
+
+[Spring Cloud Alibaba 7 天训练营（一）基础知识篇](https://developer.aliyun.com/article/773199?spm=a2c6h.12873639.0.0.24778e16op6DSZ)
+
+[Spring Cloud Stream 多通道创建](https://blog.csdn.net/kangkanglou/article/details/75578622)
+
+[SpringCloud +Seata 实现分布式事务，Nacos 为配置中心](https://blog.csdn.net/u014087208/article/details/108511340)
+
 
 
 ## 综合
@@ -83,12 +109,6 @@
 [TCP协议](https://www.cnblogs.com/qdhxhz/p/10267932.html)
 
 [Awsome Java(开源项目合集)](https://github.com/Snailclimb/awesome-java)
-
-
-
-## SpringCloud
-
-[Spring Cloud Alibaba 7 天训练营（一）基础知识篇](https://developer.aliyun.com/article/773199?spm=a2c6h.12873639.0.0.24778e16op6DSZ)
 
 
 
